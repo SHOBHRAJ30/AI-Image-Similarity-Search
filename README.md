@@ -27,15 +27,12 @@ This project demonstrates practical usage of computer vision and representation 
 
 ## 📂 Project Structure
 
-AI-Image-Similarity-Search/
-│
-├── src/ # Core source code
-├── dataset/ # Image dataset
-├── outputs/ # Results & visual outputs
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── LICENSE
+## Project Structure
+dataset/               # Image dataset  
+feature_extraction.py  # CNN-based feature extraction  
+similarity_search.py   # Vector similarity logic  
+requirements.txt       # Dependencies
+
 
 
 ---
