@@ -18,7 +18,9 @@ This project implements an AI-powered image similarity search and recommendation
 - scikit-learn
 
 ## 📂 Project Structure
+
 AI-Image-Similarity-Search/
+
 ├── feature_extraction.py
 ├── similarity_search.py
 ├── dataset/
