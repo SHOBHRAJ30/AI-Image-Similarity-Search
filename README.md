@@ -17,17 +17,6 @@ This project implements an AI-powered image similarity search and recommendation
 - OpenCV
 - scikit-learn
 
-## 📂 Project Structure
-
-AI-Image-Similarity-Search/
-
-├── feature_extraction.py
-├── similarity_search.py
-├── dataset/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── …
-└── README.md
 ## ⚙️ How It Works
 1. Images are loaded from the dataset folder  
 2. MobileNetV2 extracts deep feature vectors  
