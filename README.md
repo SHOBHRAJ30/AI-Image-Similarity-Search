@@ -27,13 +27,10 @@ This project demonstrates practical usage of computer vision and representation 
 
 ## 📂 Project Structure
 
-|--> dataset/                  # Image dataset  
-|
-|--> feature_extraction.py     # CNN-based feature extraction  
-|  
-|--> similarity_search.py      # Vector similarity logic  
-|
-|--> requirements.txt          # Dependencies
+dataset/                  # Image dataset  
+feature_extraction.py     # CNN-based feature extraction    
+similarity_search.py      # Vector similarity logic  
+requirements.txt          # Dependencies
 
 
 
